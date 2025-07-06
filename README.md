@@ -1,6 +1,6 @@
     Programming
     |
-    └── c and c++
+    |── c and c++
     |   |
     |   ├── Book
     |   |   |
@@ -102,4 +102,5 @@
     |   └── Sandbox
     |       |
     |       └── main1.c - EMPTY
-    |
+    ├── .gitignore
+    ├── readme.md
