@@ -74,7 +74,6 @@ int main()
             } 
         }
     }
-
     return_index = return_shortest(distances_to_return);
     print_output(cities, ways_to_return, return_index);
     printf("With a distance of %dkm\n\n", distances_to_return[return_index]);

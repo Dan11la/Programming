@@ -2,6 +2,6 @@
 
 int main() 
 {
-    printf("Hello, w\qorld!\n");
+    printf("Hello, w\corld!\n"); // just ignored \c 
     return 0;
 }
