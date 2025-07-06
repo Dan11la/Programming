@@ -11,29 +11,29 @@
     |   │       ├── 1K&R1-12
     |   |       |   |
     |   │       │   ├── main1.c - READY
-    |   │       │   ├── main1.drawio
+    |   │       │   ├── main1.drawio - READY
     |   │       │   ├── main2.c - READY
-    |   │       │   ├── main2.drawio
+    |   │       │   ├── main2.drawio - READY
     |   │       │   ├── main3.c - READY
-    |   │       │   ├── main3.drawio
+    |   │       │   ├── main3.drawio - READY
     |   │       │   ├── main4.c - READY
-    |   │       │   ├── main4.drawio
+    |   │       │   ├── main4.drawio - READY
     |   │       │   ├── main5.c - READY
-    |   │       │   ├── main5.drawio
+    |   │       │   ├── main5.drawio - READY
     |   │       │   ├── main6.c - READY
-    |   │       │   ├── main6.drawio
-    |   │       │   ├── main7.c - READY
-    |   │       │   ├── main7.drawio
+    |   │       │   ├── main6.drawio - READY
+    |   │       │   ├── main7.c - READY 
+    |   │       │   ├── main7.drawio - READY
     |   │       │   ├── main8.c - READY
-    |   │       │   ├── main8.drawio
+    |   │       │   ├── main8.drawio - READY
     |   │       │   ├── main9.c - READY
-    |   │       │   ├── main9.drawio
+    |   │       │   ├── main9.drawio - READY
     |   │       │   ├── main10.c - READY
-    |   │       │   ├── main10.drawio
+    |   │       │   ├── main10.drawio - READY
     |   │       │   ├── main11.c - READY
-    |   │       │   ├── main11.drawio
+    |   │       │   ├── main11.drawio - READY
     |   │       │   ├── main12.c - READY
-    |   │       │   └── main12.drawio
+    |   │       │   └── main12.drawio - READY
     |   |       |
     |   │       ├── 1K&R13-24
     |   |       |   |
